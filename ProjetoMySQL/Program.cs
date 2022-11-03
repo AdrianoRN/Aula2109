@@ -12,15 +12,24 @@ builder.Services.AddDbContext<BDContexto>(options =>
 // Add services to the container.
 builder.Services.AddControllersWithViews();
  
-var app = builder.Build();
+// var app = builder.Build();
  
-// Configure the HTTP request pipeline.
+// // Configure the HTTP request pipeline.
+// if (!app.Environment.IsDevelopment())
+// {
+//     app.UseExceptionHandler("/Home/Error");
+//     app.UseHsts();
+// }
+var app = builder.Build();
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
- 
+
+// using static System.Net.Mime.MediaTypeNames;
+app.UseStatusCodePagesWithRedirects("/StatusCode/{0}"); 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
  

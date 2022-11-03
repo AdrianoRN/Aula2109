@@ -8,7 +8,7 @@ function limpar() {
 }
 
 function grid() {
-    $.get('https://1279.0.0.1/Eleitor/Listar')
+    $.get('https://127.0.0.1/Eleitor/Listar')
         .done(function(resposta) { 
             for(i = 0; i < resposta.length; i++) {                
                 let linha = $('<tr class="text-center"></tr>');
@@ -61,7 +61,7 @@ function cadastrar() {
 
     $.ajax({
         type: 'POST',
-        url: 'https://120.0.0.1/Eleitor/Cadastrar',
+        url: 'https://127.0.0.1/Eleitor/Cadastrar',
         contentType: "application/json; charset=utf-8",
         data: JSON.stringify(eleitor),
         success: function() {
