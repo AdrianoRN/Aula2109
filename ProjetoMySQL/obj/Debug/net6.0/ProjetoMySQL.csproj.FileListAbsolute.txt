@@ -19,8 +19,6 @@ C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\ob
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.AssemblyInfo.cs
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.csproj.CoreCompileInputs.cache
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.RazorAssemblyInfo.cache
-C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.RazorAssemblyInfo.cs
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\scopedcss\bundle\ProjetoMySQL.styles.css
