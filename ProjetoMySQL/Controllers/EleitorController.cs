@@ -58,14 +58,14 @@ namespace ProjetoMySQL.Controllers
         [HttpGet] 
         public Eleitor Visualizar(int id)
         {
-            return contexto.Eleitores.FirstOrDefault(p => p.Id == id);
+            return contexto.Eleitors.FirstOrDefault(p => p.Id == id);
         }
 
 
         [HttpGet] 
         public Eleitor BuscaPorCpf(string cpf)
         {
-            return contexto.Eleitores.FirstOrDefault(p => p.Cpf == cpf);
+            return contexto.Eleitors.FirstOrDefault(p => p.Cpf == cpf);
         }
     }
 }
