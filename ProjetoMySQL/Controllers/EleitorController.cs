@@ -21,15 +21,14 @@ namespace ProjetoMySQL.Controllers
         }
 
         [HttpPost]
-
         public string Cadastrar([FromBody] Eleitor novoEleitor)
         {
             contexto.Add(novoEleitor);
             contexto.SaveChanges();
             return "Eleitor(a) cadastrado(a) com sucesso!";
         }
-        [HttpDelete]
 
+        [HttpDelete]
         public string Excluir([FromBody]int id)
         {
             Eleitor dados = contexto.Eleitors.FirstOrDefault(p => p.Id == id);
@@ -45,6 +44,28 @@ namespace ProjetoMySQL.Controllers
 
                 return "Eleitor(a) removido(a) com sucesso!";
             }
+        }
+        [HttpPut]
+        public string Alterar([FromBody] Eleitor eleitorAtualizado)
+        {
+            contexto.Update(eleitorAtualizado);
+            contexto.SaveChanges();
+
+            return "Eleitor atualizado com sucesso!";
+        }
+
+
+        [HttpGet] 
+        public Eleitor Visualizar(int id)
+        {
+            return contexto.Eleitores.FirstOrDefault(p => p.Id == id);
+        }
+
+
+        [HttpGet] 
+        public Eleitor BuscaPorCpf(string cpf)
+        {
+            return contexto.Eleitores.FirstOrDefault(p => p.Cpf == cpf);
         }
     }
 }

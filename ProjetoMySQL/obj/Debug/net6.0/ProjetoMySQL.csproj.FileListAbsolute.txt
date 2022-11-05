@@ -28,3 +28,33 @@ C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\ob
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.pdb
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.genruntimeconfig.cache
 C:\Users\adria\Desktop\Análise e Projeto de Software I\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ref\ProjetoMySQL.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\appsettings.json
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.staticwebassets.runtime.json
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.exe
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.deps.json
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.runtimeconfig.json
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.pdb
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.csproj.AssemblyReference.cache
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.AssemblyInfoInputs.cache
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.AssemblyInfo.cs
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.csproj.CoreCompileInputs.cache
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\scopedcss\bundle\ProjetoMySQL.styles.css
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.csproj.CopyComplete
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\refint\ProjetoMySQL.dll
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.pdb
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.genruntimeconfig.cache
+C:\Users\adria\ambienteDesenvolvimento\APS\Aula2109\.git\Aula2109\ProjetoMySQL\obj\Debug\net6.0\ref\ProjetoMySQL.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9++GJtCRX/rxjFBHdIepzkTeRNBLmXisGFnBq/0lszi2amEmNHlLqX8WNxag5474GwPqm8YdeVz1xzTpUYRuUQ==",
+  "dgSpecHash": "CwmBsvcQ0G268Ww1T229bwnwliDRP9C30S6f00fb4rM0lhqpY034bkfUs1aeVsaZLGyZr1FBr6kCcurC+HqbVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adria\\Desktop\\Análise e Projeto de Software I\\Aula2109\\ProjetoMySQL\\ProjetoMySQL.csproj",
+  "projectFilePath": "C:\\Users\\adria\\ambienteDesenvolvimento\\APS\\Aula2109\\.git\\Aula2109\\ProjetoMySQL\\ProjetoMySQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adria\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",

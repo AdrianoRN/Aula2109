@@ -823,11 +823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adria\\Desktop\\Análise e Projeto de Software I\\Aula2109\\ProjetoMySQL\\ProjetoMySQL.csproj",
+      "projectUniqueName": "C:\\Users\\adria\\ambienteDesenvolvimento\\APS\\Aula2109\\.git\\Aula2109\\ProjetoMySQL\\ProjetoMySQL.csproj",
       "projectName": "ProjetoMySQL",
-      "projectPath": "C:\\Users\\adria\\Desktop\\Análise e Projeto de Software I\\Aula2109\\ProjetoMySQL\\ProjetoMySQL.csproj",
+      "projectPath": "C:\\Users\\adria\\ambienteDesenvolvimento\\APS\\Aula2109\\.git\\Aula2109\\ProjetoMySQL\\ProjetoMySQL.csproj",
       "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adria\\Desktop\\Análise e Projeto de Software I\\Aula2109\\ProjetoMySQL\\obj\\",
+      "outputPath": "C:\\Users\\adria\\ambienteDesenvolvimento\\APS\\Aula2109\\.git\\Aula2109\\ProjetoMySQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
