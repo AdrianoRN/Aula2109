@@ -7,7 +7,7 @@ $(document).ready(function() {
 
 
 function listarCandidato(){
-    $.get('https://127.0.0.1/Candidato/Listar')
+    $.get('https://127.0.0.1:5500/Candidato/Listar')
         .done(function(resposta) { 
             for(i = 0; i < resposta.length; i++) {
                 $('#candidatoSelect').append($('<option></option>').val(resposta[i].id).html(resposta[i].nome));
@@ -19,7 +19,7 @@ function listarCandidato(){
 }
 
 function consultaEleitorPorCpf(cpf){
-    $.get('https://127.0.0.1/Eleitor/BuscaPorCpf?cpf='+cpf)
+    $.get('https://127.0.0.1:5500/Eleitor/BuscaPorCpf?cpf='+cpf)
         .done(function(resposta) { 
             if (resposta == null)
             {
@@ -64,7 +64,7 @@ function limpar() {
 }
 
 function grid() {
-    $.get('https://127.0.0.1/Votacao/Listar')
+    $.get('https://127.0.0.1:5500/Votacao/Listar')
         .done(function(resposta) { 
             for(i = 0; i < resposta.length; i++) {                
                 let linha = $('<tr class="text-center"></tr>');
@@ -82,7 +82,11 @@ function grid() {
 
 
 function cadastrar() {
-    
+    //trecho para teste
+    var endereco = 'POST'
+    var metodo = 'https://127.0.0.1:5500/Votacao/cadastrar'
+    var mensagem = 'Votação registrada com sucesso!'
+
     let votacao = {
         Id: 0,
         IdCandidato: $('#candidatoSelect').val(),
@@ -92,17 +96,33 @@ function cadastrar() {
     console.log(votacao);
 
     $.ajax({
-        type: 'POST',
-        url: 'https://127.0.0.1/Votacao/Cadastrar',
+        type: metodo,
+        url: endereco,
         contentType: "application/json; charset=utf-8",
         data: JSON.stringify(votacao),
         success: function() {
-            alert("Votação registrada com sucesso!");
+            alert(mensagem);
             limpar();
             location.reload(true);
         },
         error: function() {
             alert("Erro ao realizar operação!");
         }
-    });
+    }); //fim do trecho teste
+
+
+    // $.ajax({
+    //     type: 'POST',
+    //     url: 'https://127.0.0.1/Votacao/cadastrar',
+    //     contentType: "application/json; charset=utf-8",
+    //     data: JSON.stringify(votacao),
+    //     success: function() {
+    //         alert("Votação registrada com sucesso!");
+    //         limpar();
+    //         location.reload(true);
+    //     },
+    //     error: function() {
+    //         alert("Erro ao realizar operação!");
+    //     }
+    // });
 }

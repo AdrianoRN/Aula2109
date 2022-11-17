@@ -25,6 +25,7 @@ namespace ProjetoMySQL.Controllers
                         Id = v.Id,
                         IdCandidato = v.IdCandidato,
                         IdEleitor = v.IdEleitor,
+                        
                         IdEleitorNavigation = new Eleitor 
                         { 
                             Id = v.IdEleitorNavigation.Id, 
@@ -43,7 +44,7 @@ namespace ProjetoMySQL.Controllers
         }
 
         [HttpPost]
-        public string Cadastrar([FromBody] Votacao novaVotacao)
+        public string cadastrar([FromBody] Votacao novaVotacao)
         {
             contexto.Add(novaVotacao);
             contexto.SaveChanges();

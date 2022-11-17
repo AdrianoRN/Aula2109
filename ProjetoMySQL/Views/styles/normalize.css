@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Permanent+Marker&family=Rubik:ital,wght@0,300;1,400&display=swap');
+/** modo de importar as fontes:
+*font-family: 'Nabla', cursive;
+*font-family: 'Permanent Marker', cursive;
+*font-family: 'Rubik', sans-serif;
+*/
+.container {
+  margin:0 auto; /*Margem superior e inferior em 0 e as margens laterais em auto */
+  width: 960px; /* fixa a largura da página*/
+}
+body{  
+  font:#fffbf4; 
+  line-height: 1.6;
+  background: #4487ff;
+}
+body h1{
+  
+  font-family:'Rubik', sans-serif;/*Fonte google fonts */ 
+  color:#0045d4;
+
+}
+.place nav{
+  justify-content: space-between;
+  margin:auto;
+  text-decoration: none;
+  font-weight: bold;  
+}
+.place a{
+  color: #0045d4;
+  text-decoration: none;
+}
+.header{ 
+  justify-content: space-between;
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  background: #fffbf4; 
+  border-radius: 1cm;
+  padding: 20px 20px;
+}  
+.place{
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  border: 1px solid #4487fC;
+  background: #fff ;
+  border-radius: 1cm;
+  padding: 20px 20px;
+
+}
+
